@@ -1,6 +1,6 @@
    
-   Versio 1.0
-   ==========
+   Versio
+   
    A domain entities Version Control System, based on Java
 
    Copyright (c) 2014 Keetip
