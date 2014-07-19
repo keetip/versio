@@ -3,6 +3,8 @@
 
 # Eclipse project 
 .settings
+.classpath
+.project
 
 # Maven target folder
 target 
